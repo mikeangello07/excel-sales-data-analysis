@@ -1,0 +1,23 @@
+# Customer Segmentation Project
+
+## 📌 Project Overview
+This project analyzes customer data to group customers based on behavior.
+
+## 📊 Tools Used
+- Excel
+- Python (Pandas)
+- Jupyter Notebook
+
+## 📁 Dataset
+The dataset contains customer age, income, and spending score.
+
+## 🔍 Key Insights
+- High income customers tend to spend more
+- Some low income customers still have high spending behavior
+
+## 🚀 How to Run
+1. Open the notebook
+2. Run all cells
+
+## 📌 Author
+Ekechukwu Michael
