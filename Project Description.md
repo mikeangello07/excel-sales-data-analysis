@@ -5,8 +5,7 @@ This project analyzes customer data to group customers based on behavior.
 
 ## 📊 Tools Used
 - Excel
-- Python (Pandas)
-- Jupyter Notebook
+- Google Sheets
 
 ## 📁 Dataset
 The dataset contains customer age, income, and spending score.
