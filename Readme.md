@@ -25,6 +25,7 @@ Profession – Customer occupation
 Work Experience – Number of years worked
 Spending Score – Score assigned based on spending behavior
 Segmentation – Existing customer segment label
+
 🧠 Methodology
 Data Cleaning and Preprocessing
 Exploratory Data Analysis (EDA)
